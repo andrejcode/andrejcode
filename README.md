@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Andrej
 
-- I'm currently immersed in the Turing College online bootcamp, delving into the intricate world of web development and crafting some truly remarkable projects along the way.
+I'm currently immersed in the Turing College online bootcamp, delving into the intricate world of web development and crafting some truly remarkable projects along the way.
 
 <!--
 **andrejcode/andrejcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
