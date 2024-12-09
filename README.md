@@ -30,7 +30,8 @@ I'm Andrej, a passionate Front-end Web Developer. I am currently working as a Ju
 
 ## 👥 Leadership Experience
 
-As a Junior Team Lead, I help and motivate other students, guiding them to find solutions themselves. I assist the Senior Team Lead in Agile-based stand-ups.
+As a Junior Team Lead, I help and motivate other students, guiding them to find solutions themselves. I perform code reviews for other students, providing constructive feedback 
+to help them improve their code quality and skills. Additionally, I assist the Senior Team Lead in Agile-based stand-ups.
 
 ## 🔍 More About Me
 
